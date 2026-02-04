@@ -14,4 +14,7 @@ No dia a dia de projetos de dados (ETLs, Dashboards, Integrações via n8n), o u
 
 1. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/adrianosQueiroz/python-venv-dominio.git](https://github.com/adrianosQueiroz/python-venv-dominio.git) 
+   git clone [https://github.com/adrianosQueiroz/python-venv-dominio.git](https://github.com/adrianosQueiroz/python-venv-dominio.git)
+
+   ---
+*Projeto desenvolvido por **Adriano Soares**, unindo experiência em logística e análise de dados.*
