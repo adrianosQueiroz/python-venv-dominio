@@ -34,8 +34,7 @@ pip install requests beautifulsoup4 pandas
 Dica Extra para o seu Portfólio:
 Se você quiser ser ainda mais profissional, após instalar tudo, rode este comando no terminal: pip freeze > requirements.txt
 
-Isso criará um arquivo chamado requirements.txt. Aí, no seu README, você pode substituir o passo 2 por:
-
+Isso criará um arquivo chamado requirements.txt. Aí, você pode substituir o passo 2 por:
 
 pip install -r requirements.txt
 
