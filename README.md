@@ -12,9 +12,36 @@ No dia a dia de projetos de dados (ETLs, Dashboards, Integrações via n8n), o u
 
 ## 🛠️ Guia Prático: Como replicar este projeto
 
+**Criar o Ambiente Virtual (venv)**
+No terminal, dentro da pasta do projeto, execute:
+
+python -m venv venv
+1. Ativar o Ambiente Virtual - Windows (PowerShell):
+
+PowerShell
+.\venv\Scripts\Activate.ps1
+Windows (Prompt de Comando / CMD):
+
+DOS
+.\venv\Scripts\activate
+Linux/Mac/Git Bash:
+
+source venv/Scripts/activate
+2. Instalar as Dependências
+Com o ambiente ativo (você verá um (venv) no terminal), instale as bibliotecas necessárias:
+
+pip install requests beautifulsoup4 pandas
+Dica Extra para o seu Portfólio:
+Se você quiser ser ainda mais profissional, após instalar tudo, rode este comando no terminal: pip freeze > requirements.txt
+
+Isso criará um arquivo chamado requirements.txt. Aí, no seu README, você pode substituir o passo 2 por:
+
+
+pip install -r requirements.txt
+
 1. **Clonar o repositório:**
    ```bash
    git clone [https://github.com/adrianosQueiroz/python-venv-dominio.git](https://github.com/adrianosQueiroz/python-venv-dominio.git)
 
-   ---
+
 *Projeto desenvolvido por **Adriano Soares**, unindo experiência em logística e análise de dados.*
