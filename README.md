@@ -14,20 +14,23 @@ No dia a dia de projetos de dados (ETLs, Dashboards, Integrações via n8n), o u
 
 ## Criar o Ambiente Virtual (venv)
 No terminal, dentro da pasta do projeto, execute:
-python -m venv venv
+
+      python -m venv venv
 
 **1. Ativar o Ambiente Virtual - 
 Windows (PowerShell):**
 
-.\venv\Scripts\Activate.ps1
+      .\venv\Scripts\Activate.ps1
 
 **Windows (Prompt de Comando / CMD):**
 
 **DOS:**
-.\venv\Scripts\activate
+
+      .\venv\Scripts\activate
 
 **Linux/Mac/Git Bash:**
-source venv/Scripts/activate
+
+      source venv/Scripts/activate
 
 
 **2. Instalar as Dependências**
